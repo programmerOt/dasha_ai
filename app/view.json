@@ -1,0 +1,212 @@
+{
+  "node::track_parcel": {
+    "common.position": {
+      "x": 597.0076726342711,
+      "y": -17.895140664961637
+    }
+  },
+  "node::missed_delivery": {
+    "common.position": {
+      "x": 582.0460358056266,
+      "y": 120.12531969309464
+    }
+  },
+  "node::where_is_point": {
+    "common.position": {
+      "x": 600,
+      "y": 366.50943396226415
+    }
+  },
+  "node::return_shipment": {
+    "common.position": {
+      "x": 597.0566037735849,
+      "y": 481.60377358490564
+    }
+  },
+  "node::root": {
+    "common.position": {
+      "x": 280,
+      "y": 865.8216108890522
+    }
+  },
+  "node::repeat_or_ping_hangup": {
+    "common.position": {
+      "x": 526.9665123876939,
+      "y": 2653.2817860059895
+    }
+  },
+  "node::hello_hangup": {
+    "common.position": {
+      "x": 251,
+      "y": 1837.5
+    }
+  },
+  "node::dont_understand_hangup": {
+    "common.position": {
+      "x": 251,
+      "y": 1686.5
+    }
+  },
+  "node::hangup": {
+    "common.position": {
+      "x": 0,
+      "y": 2441.5
+    }
+  },
+  "node::nointerest": {
+    "common.position": {
+      "x": 985.9755206430398,
+      "y": 648.0587035110914
+    }
+  },
+  "node::interest": {
+    "common.position": {
+      "x": 1480,
+      "y": 1027.3917895398
+    }
+  },
+  "node::when_callback": {
+    "common.position": {
+      "x": 1087.093705037539,
+      "y": 1230.1006986585921
+    }
+  },
+  "node::swear_words": {
+    "common.position": {
+      "x": 0,
+      "y": 2290.5
+    }
+  },
+  "node::connection": {
+    "common.position": {
+      "x": 2590.144176030892,
+      "y": 821.8969312424816
+    }
+  },
+  "node::when_comfort": {
+    "common.position": {
+      "x": 1779.064444490624,
+      "y": 1193.7297718471468
+    }
+  },
+  "node::load": {
+    "common.position": {
+      "x": 1876.7257752752332,
+      "y": 773.4349614802047
+    }
+  },
+  "node::dontwant": {
+    "common.position": {
+      "x": 2501.648768234832,
+      "y": 438.5436490374807
+    }
+  },
+  "node::answering_machine": {
+    "common.position": {
+      "x": 0,
+      "y": 25.5
+    }
+  },
+  "node::i_will_call_back": {
+    "common.position": {
+      "x": 0,
+      "y": 176.5
+    }
+  },
+  "node::can_hear_you": {
+    "common.position": {
+      "x": 0,
+      "y": 327.5
+    }
+  },
+  "node::dont_understand_hangup_params": {
+    "common.position": {
+      "x": 0,
+      "y": 478.5
+    }
+  },
+  "node::dont_understand": {
+    "common.position": {
+      "x": 0,
+      "y": 1686.5
+    }
+  },
+  "node::dont_understand_preprocessor": {
+    "common.position": {
+      "x": 0,
+      "y": 780.5
+    }
+  },
+  "node::hello": {
+    "common.position": {
+      "x": 0,
+      "y": 1837.5
+    }
+  },
+  "node::hello_preprocessor": {
+    "common.position": {
+      "x": 0,
+      "y": 1082.5
+    }
+  },
+  "node::i_am_robot": {
+    "common.position": {
+      "x": 0,
+      "y": 1233.5
+    }
+  },
+  "node::repeat_preprocessor": {
+    "common.position": {
+      "x": 0,
+      "y": 1384.5
+    }
+  },
+  "node::repeat_hangup_params": {
+    "common.position": {
+      "x": 0,
+      "y": 1535.5
+    }
+  },
+  "node::repeat": {
+    "common.position": {
+      "x": 0,
+      "y": 2592.5
+    }
+  },
+  "node::ping": {
+    "common.position": {
+      "x": 0,
+      "y": 2743.5
+    }
+  },
+  "node::wait": {
+    "common.position": {
+      "x": 0,
+      "y": 1988.5
+    }
+  },
+  "node::sorry_wont_call": {
+    "common.position": {
+      "x": 0,
+      "y": 2139.5
+    }
+  },
+  "node::effective": {
+    "common.position": {
+      "x": 1480,
+      "y": 407.1769791209823
+    }
+  },
+  "node::new_node0": {
+    "common.position": {
+      "x": 166.88003372726394,
+      "y": 629.1007650753108
+    }
+  },
+  "node::great": {
+    "common.position": {
+      "x": 1759.8030033909254,
+      "y": 1449.6108509607623
+    }
+  }
+}
